@@ -23,4 +23,4 @@ else
     Console.WriteLine("Resposta inválida. Por favor, responda com 's' ou 'n'.");
 }
 
-
+Console.WriteLine("Programa encerrado! Tenha um bom dia!");
